@@ -1,6 +1,6 @@
 from typing import Annotated, Any
 
-from pydantic import Field
+from pydantic import BeforeValidator, Field
 
 from mcp_retail_sim.helpers import (
     sanitize_cart_id,
@@ -18,47 +18,79 @@ from mcp_retail_sim.store import (
     search_products,
 )
 
+def _strip_id(value: object) -> object:
+    """Drop surrounding whitespace before the ID pattern is checked."""
+    if isinstance(value, str):
+        return value.strip()
+    return value
+
+
+_ID_PATTERN = r"^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$"
+
 ProductId = Annotated[
     str,
+    BeforeValidator(_strip_id),
     Field(
-        pattern=r"^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$",
-        description="Alphanumeric product SKU (hyphens ok), e.g. SKU-1000",
+        pattern=_ID_PATTERN,
+        description="Alphanumeric product SKU (hyphens ok), e.g. SKU-1001",
     ),
 ]
 
 CartId = Annotated[
     str,
+    BeforeValidator(_strip_id),
     Field(
-        pattern=r"^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$",
+        pattern=_ID_PATTERN,
         description="Client-generated cart handle, e.g. cart-123",
     ),
 ]
 
 OrderId = Annotated[
     str,
+    BeforeValidator(_strip_id),
     Field(
-        pattern=r"^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$",
+        pattern=_ID_PATTERN,
         description="Order id from place_order, e.g. ORD-E2F0C262",
     ),
 ]
 
 
+Query = Annotated[
+    str,
+    Field(
+        description=(
+            "Substring matched against name, description, category, and brand. "
+            "Try headphones, laptop, coffee, yoga, or tv. A random word often returns []."
+        ),
+    ),
+]
+
+
 @mcp.tool
-def search(query: str) -> list[dict]:
-    """Search for products"""
+def search(query: Query) -> list[dict]:
+    """Search the synthetic catalog (about 500 products).
+
+    Example queries that return rows: headphones, laptop, coffee, yoga, tv, jacket.
+    Matching is a case-insensitive substring of name, description, category, or brand.
+    """
     products = search_products(sanitize_query(query))
     return products
 
 @mcp.tool
 def get_product_details(product_id: ProductId) -> dict[str, Any] | None:
-    """Get product details by SKU."""
-    if product_id is None:
+    """Get one product by SKU. Example: SKU-1001 (LumenLab Pro Headphones)."""
+    sku = sanitize_product_id(product_id) if product_id else None
+    if sku is None:
         return None
-    return product_details(product_id)
+    return product_details(sku)
 
 @mcp.tool
 def check_inventory(product_id: ProductId) -> dict[str, Any] | None:
-    """Check inventory for the product"""
+    """Check stock for a SKU.
+
+    Example in stock: SKU-1001. Example out of stock: SKU-1002.
+    Returns stock_qty and in_stock. Does not change inventory.
+    """
     sku = sanitize_product_id(product_id)
     if sku is None:
         return None
@@ -70,7 +102,12 @@ def add_to_cart(
     product_id: ProductId,
     qty: int = 1,
 ) -> dict[str, Any]:
-    """Add a product to a cart (creates cart if needed). Does not decrement stock."""
+    """Add a product to a cart. Does not decrement stock.
+
+    Example: cart_id=cart-1, product_id=SKU-1001, qty=1.
+    Use any new cart id; the cart is created if it does not exist.
+    Fails if the SKU is unknown or out of stock (try SKU-1002 to see that error).
+    """
     cid = sanitize_cart_id(cart_id)
     sku = sanitize_product_id(product_id)
     if cid is None:
@@ -81,7 +118,11 @@ def add_to_cart(
 
 @mcp.tool
 def place_order(cart_id: CartId) -> dict[str, Any]:
-    """Place an order from a cart: decrements stock and clears the cart."""
+    """Check out a cart created by add_to_cart.
+
+    Example: cart_id=cart-1 after adding SKU-1001.
+    Decrements stock, returns an order_id like ORD-XXXXXXXX, and deletes the cart.
+    """
     cid = sanitize_cart_id(cart_id)
     if cid is None:
         return {"ok": False, "error": "invalid cart_id"}
@@ -89,7 +130,11 @@ def place_order(cart_id: CartId) -> dict[str, Any]:
 
 @mcp.tool
 def get_order_details(order_id: OrderId) -> dict[str, Any] | None:
-    """Get order details by order_id."""
+    """Read an order created by place_order.
+
+    Pass the order_id from that response, for example ORD-E2F0C262.
+    Orders exist only in this server process; a new process has none.
+    """
     oid = sanitize_order_id(order_id)
     if oid is None:
         return None

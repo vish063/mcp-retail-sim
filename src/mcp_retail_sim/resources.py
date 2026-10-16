@@ -14,27 +14,27 @@ def _policy_text(policy_id: str) -> str:
 
 @mcp.resource("policy://returns")
 def returns_policy() -> str:
-    """Get returns policy"""
+    """Returns policy text. Read this URI as-is: policy://returns."""
     return _policy_text("returns")
 
 
 @mcp.resource("policy://shipping")
 def shipping_policy() -> str:
-    """Get shipping policy"""
+    """Shipping policy text. Read this URI as-is: policy://shipping."""
     return _policy_text("shipping")
 
 
 @mcp.resource("policy://privacy")
 def privacy_policy() -> str:
-    """Get privacy policy"""
+    """Privacy policy text. Read this URI as-is: policy://privacy."""
     return _policy_text("privacy")
 
 
 @mcp.resource("product://{sku}")
 def product_page(sku: str) -> str:
-    """Readable product page document (for prompts / context).
+    """Product page for one SKU. Example URI: product://SKU-1001.
 
-    For compact facts in a tool loop, use get_product_details instead.
+    For a compact JSON payload, use the get_product_details tool instead.
     """
     product_id = sanitize_product_id(sku)
     if product_id is None:

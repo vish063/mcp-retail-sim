@@ -1,15 +1,38 @@
 [project]
 name = "mcp-retail-sim"
 version = "0.1.0"
-description = "An retail mcp for agents to simulate search, product details, add to cart, purchase flows"
+description = "Synthetic retail MCP server for shopping-agent demos and evaluation"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.10"
+authors = [
+    { name = "vish063" },
+]
+keywords = ["mcp", "fastmcp", "retail", "simulator", "agent", "model-context-protocol"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Testing",
+]
 dependencies = [
     "fastmcp>=4.1.0",
 ]
 
+[dependency-groups]
+dev = ["pytest"]
+
 [project.scripts]
 mcp-retail-sim = "mcp_retail_sim.cli:main"
+
+[project.urls]
+Repository = "https://github.com/vish063/mcp-retail-sim"
 
 [build-system]
 requires = ["uv_build>=0.13.0,<0.14.0"]

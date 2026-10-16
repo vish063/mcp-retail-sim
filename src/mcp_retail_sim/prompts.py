@@ -2,7 +2,7 @@ from mcp_retail_sim.server import mcp
 
 @mcp.prompt()
 def compare_products(product1: str, product2: str) -> str:
-    """Compare products and return the differences."""
+    """Compare two catalog SKUs. Example: product1=SKU-1000, product2=SKU-1001."""
     return f"""
     compare products {product1} and {product2}.
     use resources product://{product1} and product://{product2} to get the product details.
@@ -11,10 +11,13 @@ def compare_products(product1: str, product2: str) -> str:
 
 @mcp.prompt()
 def find_best_deal(query: str, budget: float = 100.0) -> str:
-    """Find the best deal for a product within a budget."""
+    """Find a deal in the synthetic catalog. Example: query=headphones, budget=100."""
     return f"""
-    find the best deal for {query} within a budget of {budget}.
-    use resources product://{query} to get the product details. 
-    search tool, check inventory, and find the best deal.
-    summarize the best deal and return the details.
+    Find the best deal for {query!r} with a budget of {budget}.
+    {query!r} is a search string, not a SKU. Do not open product://{query}.
+    1. Call the search tool with query {query!r}.
+    2. From those results, keep products whose price is within the budget.
+    3. For the SKUs you keep, call check_inventory and read product://{{sku}}
+       (use the sku field from search, for example product://SKU-1001).
+    4. Recommend one in-stock product and summarize price, stock, and why it fits.
     """
