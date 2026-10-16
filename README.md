@@ -178,6 +178,27 @@ Client (agent / Inspector / LangChain)
 MVP: tools, resources, prompts, **stdio + Streamable HTTP**.  
 Failure injection is planned (see `[scope.md](./scope.md)`) — not shipped yet.
 
+## Maintainer
+
+From the `mcp-retail-sim` directory:
+
+- Bump `version` in `pyproject.toml`.
+- Run the tests: `uv run pytest`
+- Save the API tokens (once):
+
+```bash
+keyring set https://test.pypi.org/legacy/ __token__
+keyring set https://upload.pypi.org/legacy/ __token__
+```
+
+- Build and publish:
+
+```bash
+uv build --out-dir dist
+UV_KEYRING_PROVIDER=subprocess uv publish --publish-url https://test.pypi.org/legacy/
+UV_KEYRING_PROVIDER=subprocess uv publish
+```
+
 ## License
 
 [MIT](./LICENSE)
