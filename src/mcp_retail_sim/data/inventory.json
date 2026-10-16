@@ -1,0 +1,2002 @@
+[
+  {
+    "sku": "SKU-1000",
+    "stock_qty": 234
+  },
+  {
+    "sku": "SKU-1001",
+    "stock_qty": 149
+  },
+  {
+    "sku": "SKU-1002",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1003",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1004",
+    "stock_qty": 37
+  },
+  {
+    "sku": "SKU-1005",
+    "stock_qty": 55
+  },
+  {
+    "sku": "SKU-1006",
+    "stock_qty": 31
+  },
+  {
+    "sku": "SKU-1007",
+    "stock_qty": 245
+  },
+  {
+    "sku": "SKU-1008",
+    "stock_qty": 242
+  },
+  {
+    "sku": "SKU-1009",
+    "stock_qty": 22
+  },
+  {
+    "sku": "SKU-1010",
+    "stock_qty": 123
+  },
+  {
+    "sku": "SKU-1011",
+    "stock_qty": 235
+  },
+  {
+    "sku": "SKU-1012",
+    "stock_qty": 45
+  },
+  {
+    "sku": "SKU-1013",
+    "stock_qty": 147
+  },
+  {
+    "sku": "SKU-1014",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1015",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1016",
+    "stock_qty": 159
+  },
+  {
+    "sku": "SKU-1017",
+    "stock_qty": 20
+  },
+  {
+    "sku": "SKU-1018",
+    "stock_qty": 202
+  },
+  {
+    "sku": "SKU-1019",
+    "stock_qty": 60
+  },
+  {
+    "sku": "SKU-1020",
+    "stock_qty": 22
+  },
+  {
+    "sku": "SKU-1021",
+    "stock_qty": 21
+  },
+  {
+    "sku": "SKU-1022",
+    "stock_qty": 144
+  },
+  {
+    "sku": "SKU-1023",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1024",
+    "stock_qty": 171
+  },
+  {
+    "sku": "SKU-1025",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1026",
+    "stock_qty": 226
+  },
+  {
+    "sku": "SKU-1027",
+    "stock_qty": 48
+  },
+  {
+    "sku": "SKU-1028",
+    "stock_qty": 105
+  },
+  {
+    "sku": "SKU-1029",
+    "stock_qty": 189
+  },
+  {
+    "sku": "SKU-1030",
+    "stock_qty": 197
+  },
+  {
+    "sku": "SKU-1031",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1032",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1033",
+    "stock_qty": 86
+  },
+  {
+    "sku": "SKU-1034",
+    "stock_qty": 123
+  },
+  {
+    "sku": "SKU-1035",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1036",
+    "stock_qty": 46
+  },
+  {
+    "sku": "SKU-1037",
+    "stock_qty": 176
+  },
+  {
+    "sku": "SKU-1038",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1039",
+    "stock_qty": 29
+  },
+  {
+    "sku": "SKU-1040",
+    "stock_qty": 195
+  },
+  {
+    "sku": "SKU-1041",
+    "stock_qty": 237
+  },
+  {
+    "sku": "SKU-1042",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1043",
+    "stock_qty": 232
+  },
+  {
+    "sku": "SKU-1044",
+    "stock_qty": 231
+  },
+  {
+    "sku": "SKU-1045",
+    "stock_qty": 213
+  },
+  {
+    "sku": "SKU-1046",
+    "stock_qty": 215
+  },
+  {
+    "sku": "SKU-1047",
+    "stock_qty": 227
+  },
+  {
+    "sku": "SKU-1048",
+    "stock_qty": 35
+  },
+  {
+    "sku": "SKU-1049",
+    "stock_qty": 86
+  },
+  {
+    "sku": "SKU-1050",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1051",
+    "stock_qty": 165
+  },
+  {
+    "sku": "SKU-1052",
+    "stock_qty": 81
+  },
+  {
+    "sku": "SKU-1053",
+    "stock_qty": 109
+  },
+  {
+    "sku": "SKU-1054",
+    "stock_qty": 119
+  },
+  {
+    "sku": "SKU-1055",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1056",
+    "stock_qty": 63
+  },
+  {
+    "sku": "SKU-1057",
+    "stock_qty": 122
+  },
+  {
+    "sku": "SKU-1058",
+    "stock_qty": 234
+  },
+  {
+    "sku": "SKU-1059",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1060",
+    "stock_qty": 87
+  },
+  {
+    "sku": "SKU-1061",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1062",
+    "stock_qty": 118
+  },
+  {
+    "sku": "SKU-1063",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1064",
+    "stock_qty": 21
+  },
+  {
+    "sku": "SKU-1065",
+    "stock_qty": 247
+  },
+  {
+    "sku": "SKU-1066",
+    "stock_qty": 62
+  },
+  {
+    "sku": "SKU-1067",
+    "stock_qty": 109
+  },
+  {
+    "sku": "SKU-1068",
+    "stock_qty": 12
+  },
+  {
+    "sku": "SKU-1069",
+    "stock_qty": 89
+  },
+  {
+    "sku": "SKU-1070",
+    "stock_qty": 19
+  },
+  {
+    "sku": "SKU-1071",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1072",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1073",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1074",
+    "stock_qty": 247
+  },
+  {
+    "sku": "SKU-1075",
+    "stock_qty": 212
+  },
+  {
+    "sku": "SKU-1076",
+    "stock_qty": 93
+  },
+  {
+    "sku": "SKU-1077",
+    "stock_qty": 187
+  },
+  {
+    "sku": "SKU-1078",
+    "stock_qty": 129
+  },
+  {
+    "sku": "SKU-1079",
+    "stock_qty": 77
+  },
+  {
+    "sku": "SKU-1080",
+    "stock_qty": 89
+  },
+  {
+    "sku": "SKU-1081",
+    "stock_qty": 231
+  },
+  {
+    "sku": "SKU-1082",
+    "stock_qty": 200
+  },
+  {
+    "sku": "SKU-1083",
+    "stock_qty": 183
+  },
+  {
+    "sku": "SKU-1084",
+    "stock_qty": 196
+  },
+  {
+    "sku": "SKU-1085",
+    "stock_qty": 86
+  },
+  {
+    "sku": "SKU-1086",
+    "stock_qty": 200
+  },
+  {
+    "sku": "SKU-1087",
+    "stock_qty": 38
+  },
+  {
+    "sku": "SKU-1088",
+    "stock_qty": 131
+  },
+  {
+    "sku": "SKU-1089",
+    "stock_qty": 70
+  },
+  {
+    "sku": "SKU-1090",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1091",
+    "stock_qty": 208
+  },
+  {
+    "sku": "SKU-1092",
+    "stock_qty": 151
+  },
+  {
+    "sku": "SKU-1093",
+    "stock_qty": 46
+  },
+  {
+    "sku": "SKU-1094",
+    "stock_qty": 80
+  },
+  {
+    "sku": "SKU-1095",
+    "stock_qty": 73
+  },
+  {
+    "sku": "SKU-1096",
+    "stock_qty": 24
+  },
+  {
+    "sku": "SKU-1097",
+    "stock_qty": 125
+  },
+  {
+    "sku": "SKU-1098",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1099",
+    "stock_qty": 153
+  },
+  {
+    "sku": "SKU-1100",
+    "stock_qty": 240
+  },
+  {
+    "sku": "SKU-1101",
+    "stock_qty": 110
+  },
+  {
+    "sku": "SKU-1102",
+    "stock_qty": 175
+  },
+  {
+    "sku": "SKU-1103",
+    "stock_qty": 109
+  },
+  {
+    "sku": "SKU-1104",
+    "stock_qty": 166
+  },
+  {
+    "sku": "SKU-1105",
+    "stock_qty": 130
+  },
+  {
+    "sku": "SKU-1106",
+    "stock_qty": 147
+  },
+  {
+    "sku": "SKU-1107",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1108",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1109",
+    "stock_qty": 78
+  },
+  {
+    "sku": "SKU-1110",
+    "stock_qty": 147
+  },
+  {
+    "sku": "SKU-1111",
+    "stock_qty": 111
+  },
+  {
+    "sku": "SKU-1112",
+    "stock_qty": 208
+  },
+  {
+    "sku": "SKU-1113",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1114",
+    "stock_qty": 25
+  },
+  {
+    "sku": "SKU-1115",
+    "stock_qty": 178
+  },
+  {
+    "sku": "SKU-1116",
+    "stock_qty": 181
+  },
+  {
+    "sku": "SKU-1117",
+    "stock_qty": 31
+  },
+  {
+    "sku": "SKU-1118",
+    "stock_qty": 101
+  },
+  {
+    "sku": "SKU-1119",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1120",
+    "stock_qty": 71
+  },
+  {
+    "sku": "SKU-1121",
+    "stock_qty": 24
+  },
+  {
+    "sku": "SKU-1122",
+    "stock_qty": 83
+  },
+  {
+    "sku": "SKU-1123",
+    "stock_qty": 185
+  },
+  {
+    "sku": "SKU-1124",
+    "stock_qty": 18
+  },
+  {
+    "sku": "SKU-1125",
+    "stock_qty": 179
+  },
+  {
+    "sku": "SKU-1126",
+    "stock_qty": 39
+  },
+  {
+    "sku": "SKU-1127",
+    "stock_qty": 99
+  },
+  {
+    "sku": "SKU-1128",
+    "stock_qty": 125
+  },
+  {
+    "sku": "SKU-1129",
+    "stock_qty": 9
+  },
+  {
+    "sku": "SKU-1130",
+    "stock_qty": 216
+  },
+  {
+    "sku": "SKU-1131",
+    "stock_qty": 240
+  },
+  {
+    "sku": "SKU-1132",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1133",
+    "stock_qty": 177
+  },
+  {
+    "sku": "SKU-1134",
+    "stock_qty": 246
+  },
+  {
+    "sku": "SKU-1135",
+    "stock_qty": 31
+  },
+  {
+    "sku": "SKU-1136",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1137",
+    "stock_qty": 58
+  },
+  {
+    "sku": "SKU-1138",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1139",
+    "stock_qty": 39
+  },
+  {
+    "sku": "SKU-1140",
+    "stock_qty": 140
+  },
+  {
+    "sku": "SKU-1141",
+    "stock_qty": 163
+  },
+  {
+    "sku": "SKU-1142",
+    "stock_qty": 33
+  },
+  {
+    "sku": "SKU-1143",
+    "stock_qty": 155
+  },
+  {
+    "sku": "SKU-1144",
+    "stock_qty": 35
+  },
+  {
+    "sku": "SKU-1145",
+    "stock_qty": 86
+  },
+  {
+    "sku": "SKU-1146",
+    "stock_qty": 29
+  },
+  {
+    "sku": "SKU-1147",
+    "stock_qty": 37
+  },
+  {
+    "sku": "SKU-1148",
+    "stock_qty": 60
+  },
+  {
+    "sku": "SKU-1149",
+    "stock_qty": 63
+  },
+  {
+    "sku": "SKU-1150",
+    "stock_qty": 13
+  },
+  {
+    "sku": "SKU-1151",
+    "stock_qty": 23
+  },
+  {
+    "sku": "SKU-1152",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1153",
+    "stock_qty": 75
+  },
+  {
+    "sku": "SKU-1154",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1155",
+    "stock_qty": 20
+  },
+  {
+    "sku": "SKU-1156",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1157",
+    "stock_qty": 96
+  },
+  {
+    "sku": "SKU-1158",
+    "stock_qty": 152
+  },
+  {
+    "sku": "SKU-1159",
+    "stock_qty": 123
+  },
+  {
+    "sku": "SKU-1160",
+    "stock_qty": 85
+  },
+  {
+    "sku": "SKU-1161",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1162",
+    "stock_qty": 173
+  },
+  {
+    "sku": "SKU-1163",
+    "stock_qty": 170
+  },
+  {
+    "sku": "SKU-1164",
+    "stock_qty": 20
+  },
+  {
+    "sku": "SKU-1165",
+    "stock_qty": 171
+  },
+  {
+    "sku": "SKU-1166",
+    "stock_qty": 16
+  },
+  {
+    "sku": "SKU-1167",
+    "stock_qty": 213
+  },
+  {
+    "sku": "SKU-1168",
+    "stock_qty": 139
+  },
+  {
+    "sku": "SKU-1169",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1170",
+    "stock_qty": 238
+  },
+  {
+    "sku": "SKU-1171",
+    "stock_qty": 184
+  },
+  {
+    "sku": "SKU-1172",
+    "stock_qty": 38
+  },
+  {
+    "sku": "SKU-1173",
+    "stock_qty": 248
+  },
+  {
+    "sku": "SKU-1174",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1175",
+    "stock_qty": 203
+  },
+  {
+    "sku": "SKU-1176",
+    "stock_qty": 78
+  },
+  {
+    "sku": "SKU-1177",
+    "stock_qty": 55
+  },
+  {
+    "sku": "SKU-1178",
+    "stock_qty": 47
+  },
+  {
+    "sku": "SKU-1179",
+    "stock_qty": 32
+  },
+  {
+    "sku": "SKU-1180",
+    "stock_qty": 29
+  },
+  {
+    "sku": "SKU-1181",
+    "stock_qty": 26
+  },
+  {
+    "sku": "SKU-1182",
+    "stock_qty": 41
+  },
+  {
+    "sku": "SKU-1183",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1184",
+    "stock_qty": 114
+  },
+  {
+    "sku": "SKU-1185",
+    "stock_qty": 123
+  },
+  {
+    "sku": "SKU-1186",
+    "stock_qty": 42
+  },
+  {
+    "sku": "SKU-1187",
+    "stock_qty": 27
+  },
+  {
+    "sku": "SKU-1188",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1189",
+    "stock_qty": 94
+  },
+  {
+    "sku": "SKU-1190",
+    "stock_qty": 50
+  },
+  {
+    "sku": "SKU-1191",
+    "stock_qty": 15
+  },
+  {
+    "sku": "SKU-1192",
+    "stock_qty": 214
+  },
+  {
+    "sku": "SKU-1193",
+    "stock_qty": 90
+  },
+  {
+    "sku": "SKU-1194",
+    "stock_qty": 53
+  },
+  {
+    "sku": "SKU-1195",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1196",
+    "stock_qty": 160
+  },
+  {
+    "sku": "SKU-1197",
+    "stock_qty": 163
+  },
+  {
+    "sku": "SKU-1198",
+    "stock_qty": 197
+  },
+  {
+    "sku": "SKU-1199",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1200",
+    "stock_qty": 101
+  },
+  {
+    "sku": "SKU-1201",
+    "stock_qty": 35
+  },
+  {
+    "sku": "SKU-1202",
+    "stock_qty": 186
+  },
+  {
+    "sku": "SKU-1203",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1204",
+    "stock_qty": 234
+  },
+  {
+    "sku": "SKU-1205",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1206",
+    "stock_qty": 28
+  },
+  {
+    "sku": "SKU-1207",
+    "stock_qty": 38
+  },
+  {
+    "sku": "SKU-1208",
+    "stock_qty": 156
+  },
+  {
+    "sku": "SKU-1209",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1210",
+    "stock_qty": 166
+  },
+  {
+    "sku": "SKU-1211",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1212",
+    "stock_qty": 59
+  },
+  {
+    "sku": "SKU-1213",
+    "stock_qty": 212
+  },
+  {
+    "sku": "SKU-1214",
+    "stock_qty": 161
+  },
+  {
+    "sku": "SKU-1215",
+    "stock_qty": 87
+  },
+  {
+    "sku": "SKU-1216",
+    "stock_qty": 227
+  },
+  {
+    "sku": "SKU-1217",
+    "stock_qty": 137
+  },
+  {
+    "sku": "SKU-1218",
+    "stock_qty": 61
+  },
+  {
+    "sku": "SKU-1219",
+    "stock_qty": 143
+  },
+  {
+    "sku": "SKU-1220",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1221",
+    "stock_qty": 146
+  },
+  {
+    "sku": "SKU-1222",
+    "stock_qty": 246
+  },
+  {
+    "sku": "SKU-1223",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1224",
+    "stock_qty": 106
+  },
+  {
+    "sku": "SKU-1225",
+    "stock_qty": 10
+  },
+  {
+    "sku": "SKU-1226",
+    "stock_qty": 12
+  },
+  {
+    "sku": "SKU-1227",
+    "stock_qty": 190
+  },
+  {
+    "sku": "SKU-1228",
+    "stock_qty": 44
+  },
+  {
+    "sku": "SKU-1229",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1230",
+    "stock_qty": 123
+  },
+  {
+    "sku": "SKU-1231",
+    "stock_qty": 82
+  },
+  {
+    "sku": "SKU-1232",
+    "stock_qty": 245
+  },
+  {
+    "sku": "SKU-1233",
+    "stock_qty": 203
+  },
+  {
+    "sku": "SKU-1234",
+    "stock_qty": 60
+  },
+  {
+    "sku": "SKU-1235",
+    "stock_qty": 18
+  },
+  {
+    "sku": "SKU-1236",
+    "stock_qty": 7
+  },
+  {
+    "sku": "SKU-1237",
+    "stock_qty": 79
+  },
+  {
+    "sku": "SKU-1238",
+    "stock_qty": 239
+  },
+  {
+    "sku": "SKU-1239",
+    "stock_qty": 229
+  },
+  {
+    "sku": "SKU-1240",
+    "stock_qty": 122
+  },
+  {
+    "sku": "SKU-1241",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1242",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1243",
+    "stock_qty": 128
+  },
+  {
+    "sku": "SKU-1244",
+    "stock_qty": 83
+  },
+  {
+    "sku": "SKU-1245",
+    "stock_qty": 46
+  },
+  {
+    "sku": "SKU-1246",
+    "stock_qty": 163
+  },
+  {
+    "sku": "SKU-1247",
+    "stock_qty": 185
+  },
+  {
+    "sku": "SKU-1248",
+    "stock_qty": 26
+  },
+  {
+    "sku": "SKU-1249",
+    "stock_qty": 237
+  },
+  {
+    "sku": "SKU-1250",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1251",
+    "stock_qty": 150
+  },
+  {
+    "sku": "SKU-1252",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1253",
+    "stock_qty": 245
+  },
+  {
+    "sku": "SKU-1254",
+    "stock_qty": 192
+  },
+  {
+    "sku": "SKU-1255",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1256",
+    "stock_qty": 219
+  },
+  {
+    "sku": "SKU-1257",
+    "stock_qty": 64
+  },
+  {
+    "sku": "SKU-1258",
+    "stock_qty": 14
+  },
+  {
+    "sku": "SKU-1259",
+    "stock_qty": 178
+  },
+  {
+    "sku": "SKU-1260",
+    "stock_qty": 204
+  },
+  {
+    "sku": "SKU-1261",
+    "stock_qty": 159
+  },
+  {
+    "sku": "SKU-1262",
+    "stock_qty": 148
+  },
+  {
+    "sku": "SKU-1263",
+    "stock_qty": 207
+  },
+  {
+    "sku": "SKU-1264",
+    "stock_qty": 223
+  },
+  {
+    "sku": "SKU-1265",
+    "stock_qty": 112
+  },
+  {
+    "sku": "SKU-1266",
+    "stock_qty": 100
+  },
+  {
+    "sku": "SKU-1267",
+    "stock_qty": 229
+  },
+  {
+    "sku": "SKU-1268",
+    "stock_qty": 250
+  },
+  {
+    "sku": "SKU-1269",
+    "stock_qty": 160
+  },
+  {
+    "sku": "SKU-1270",
+    "stock_qty": 97
+  },
+  {
+    "sku": "SKU-1271",
+    "stock_qty": 200
+  },
+  {
+    "sku": "SKU-1272",
+    "stock_qty": 10
+  },
+  {
+    "sku": "SKU-1273",
+    "stock_qty": 103
+  },
+  {
+    "sku": "SKU-1274",
+    "stock_qty": 195
+  },
+  {
+    "sku": "SKU-1275",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1276",
+    "stock_qty": 221
+  },
+  {
+    "sku": "SKU-1277",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1278",
+    "stock_qty": 76
+  },
+  {
+    "sku": "SKU-1279",
+    "stock_qty": 140
+  },
+  {
+    "sku": "SKU-1280",
+    "stock_qty": 26
+  },
+  {
+    "sku": "SKU-1281",
+    "stock_qty": 223
+  },
+  {
+    "sku": "SKU-1282",
+    "stock_qty": 185
+  },
+  {
+    "sku": "SKU-1283",
+    "stock_qty": 30
+  },
+  {
+    "sku": "SKU-1284",
+    "stock_qty": 77
+  },
+  {
+    "sku": "SKU-1285",
+    "stock_qty": 107
+  },
+  {
+    "sku": "SKU-1286",
+    "stock_qty": 144
+  },
+  {
+    "sku": "SKU-1287",
+    "stock_qty": 94
+  },
+  {
+    "sku": "SKU-1288",
+    "stock_qty": 158
+  },
+  {
+    "sku": "SKU-1289",
+    "stock_qty": 246
+  },
+  {
+    "sku": "SKU-1290",
+    "stock_qty": 69
+  },
+  {
+    "sku": "SKU-1291",
+    "stock_qty": 87
+  },
+  {
+    "sku": "SKU-1292",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1293",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1294",
+    "stock_qty": 27
+  },
+  {
+    "sku": "SKU-1295",
+    "stock_qty": 132
+  },
+  {
+    "sku": "SKU-1296",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1297",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1298",
+    "stock_qty": 216
+  },
+  {
+    "sku": "SKU-1299",
+    "stock_qty": 87
+  },
+  {
+    "sku": "SKU-1300",
+    "stock_qty": 35
+  },
+  {
+    "sku": "SKU-1301",
+    "stock_qty": 59
+  },
+  {
+    "sku": "SKU-1302",
+    "stock_qty": 41
+  },
+  {
+    "sku": "SKU-1303",
+    "stock_qty": 159
+  },
+  {
+    "sku": "SKU-1304",
+    "stock_qty": 15
+  },
+  {
+    "sku": "SKU-1305",
+    "stock_qty": 171
+  },
+  {
+    "sku": "SKU-1306",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1307",
+    "stock_qty": 106
+  },
+  {
+    "sku": "SKU-1308",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1309",
+    "stock_qty": 129
+  },
+  {
+    "sku": "SKU-1310",
+    "stock_qty": 213
+  },
+  {
+    "sku": "SKU-1311",
+    "stock_qty": 138
+  },
+  {
+    "sku": "SKU-1312",
+    "stock_qty": 167
+  },
+  {
+    "sku": "SKU-1313",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1314",
+    "stock_qty": 153
+  },
+  {
+    "sku": "SKU-1315",
+    "stock_qty": 131
+  },
+  {
+    "sku": "SKU-1316",
+    "stock_qty": 164
+  },
+  {
+    "sku": "SKU-1317",
+    "stock_qty": 35
+  },
+  {
+    "sku": "SKU-1318",
+    "stock_qty": 114
+  },
+  {
+    "sku": "SKU-1319",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1320",
+    "stock_qty": 249
+  },
+  {
+    "sku": "SKU-1321",
+    "stock_qty": 110
+  },
+  {
+    "sku": "SKU-1322",
+    "stock_qty": 62
+  },
+  {
+    "sku": "SKU-1323",
+    "stock_qty": 203
+  },
+  {
+    "sku": "SKU-1324",
+    "stock_qty": 99
+  },
+  {
+    "sku": "SKU-1325",
+    "stock_qty": 82
+  },
+  {
+    "sku": "SKU-1326",
+    "stock_qty": 204
+  },
+  {
+    "sku": "SKU-1327",
+    "stock_qty": 48
+  },
+  {
+    "sku": "SKU-1328",
+    "stock_qty": 88
+  },
+  {
+    "sku": "SKU-1329",
+    "stock_qty": 40
+  },
+  {
+    "sku": "SKU-1330",
+    "stock_qty": 218
+  },
+  {
+    "sku": "SKU-1331",
+    "stock_qty": 25
+  },
+  {
+    "sku": "SKU-1332",
+    "stock_qty": 89
+  },
+  {
+    "sku": "SKU-1333",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1334",
+    "stock_qty": 153
+  },
+  {
+    "sku": "SKU-1335",
+    "stock_qty": 220
+  },
+  {
+    "sku": "SKU-1336",
+    "stock_qty": 182
+  },
+  {
+    "sku": "SKU-1337",
+    "stock_qty": 237
+  },
+  {
+    "sku": "SKU-1338",
+    "stock_qty": 186
+  },
+  {
+    "sku": "SKU-1339",
+    "stock_qty": 8
+  },
+  {
+    "sku": "SKU-1340",
+    "stock_qty": 193
+  },
+  {
+    "sku": "SKU-1341",
+    "stock_qty": 40
+  },
+  {
+    "sku": "SKU-1342",
+    "stock_qty": 60
+  },
+  {
+    "sku": "SKU-1343",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1344",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1345",
+    "stock_qty": 81
+  },
+  {
+    "sku": "SKU-1346",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1347",
+    "stock_qty": 180
+  },
+  {
+    "sku": "SKU-1348",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1349",
+    "stock_qty": 108
+  },
+  {
+    "sku": "SKU-1350",
+    "stock_qty": 58
+  },
+  {
+    "sku": "SKU-1351",
+    "stock_qty": 22
+  },
+  {
+    "sku": "SKU-1352",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1353",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1354",
+    "stock_qty": 197
+  },
+  {
+    "sku": "SKU-1355",
+    "stock_qty": 153
+  },
+  {
+    "sku": "SKU-1356",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1357",
+    "stock_qty": 9
+  },
+  {
+    "sku": "SKU-1358",
+    "stock_qty": 15
+  },
+  {
+    "sku": "SKU-1359",
+    "stock_qty": 152
+  },
+  {
+    "sku": "SKU-1360",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1361",
+    "stock_qty": 8
+  },
+  {
+    "sku": "SKU-1362",
+    "stock_qty": 157
+  },
+  {
+    "sku": "SKU-1363",
+    "stock_qty": 12
+  },
+  {
+    "sku": "SKU-1364",
+    "stock_qty": 192
+  },
+  {
+    "sku": "SKU-1365",
+    "stock_qty": 42
+  },
+  {
+    "sku": "SKU-1366",
+    "stock_qty": 197
+  },
+  {
+    "sku": "SKU-1367",
+    "stock_qty": 21
+  },
+  {
+    "sku": "SKU-1368",
+    "stock_qty": 218
+  },
+  {
+    "sku": "SKU-1369",
+    "stock_qty": 155
+  },
+  {
+    "sku": "SKU-1370",
+    "stock_qty": 203
+  },
+  {
+    "sku": "SKU-1371",
+    "stock_qty": 83
+  },
+  {
+    "sku": "SKU-1372",
+    "stock_qty": 18
+  },
+  {
+    "sku": "SKU-1373",
+    "stock_qty": 30
+  },
+  {
+    "sku": "SKU-1374",
+    "stock_qty": 56
+  },
+  {
+    "sku": "SKU-1375",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1376",
+    "stock_qty": 90
+  },
+  {
+    "sku": "SKU-1377",
+    "stock_qty": 133
+  },
+  {
+    "sku": "SKU-1378",
+    "stock_qty": 120
+  },
+  {
+    "sku": "SKU-1379",
+    "stock_qty": 146
+  },
+  {
+    "sku": "SKU-1380",
+    "stock_qty": 140
+  },
+  {
+    "sku": "SKU-1381",
+    "stock_qty": 94
+  },
+  {
+    "sku": "SKU-1382",
+    "stock_qty": 205
+  },
+  {
+    "sku": "SKU-1383",
+    "stock_qty": 31
+  },
+  {
+    "sku": "SKU-1384",
+    "stock_qty": 248
+  },
+  {
+    "sku": "SKU-1385",
+    "stock_qty": 87
+  },
+  {
+    "sku": "SKU-1386",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1387",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1388",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1389",
+    "stock_qty": 226
+  },
+  {
+    "sku": "SKU-1390",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1391",
+    "stock_qty": 163
+  },
+  {
+    "sku": "SKU-1392",
+    "stock_qty": 38
+  },
+  {
+    "sku": "SKU-1393",
+    "stock_qty": 52
+  },
+  {
+    "sku": "SKU-1394",
+    "stock_qty": 66
+  },
+  {
+    "sku": "SKU-1395",
+    "stock_qty": 120
+  },
+  {
+    "sku": "SKU-1396",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1397",
+    "stock_qty": 145
+  },
+  {
+    "sku": "SKU-1398",
+    "stock_qty": 210
+  },
+  {
+    "sku": "SKU-1399",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1400",
+    "stock_qty": 13
+  },
+  {
+    "sku": "SKU-1401",
+    "stock_qty": 110
+  },
+  {
+    "sku": "SKU-1402",
+    "stock_qty": 45
+  },
+  {
+    "sku": "SKU-1403",
+    "stock_qty": 57
+  },
+  {
+    "sku": "SKU-1404",
+    "stock_qty": 84
+  },
+  {
+    "sku": "SKU-1405",
+    "stock_qty": 103
+  },
+  {
+    "sku": "SKU-1406",
+    "stock_qty": 150
+  },
+  {
+    "sku": "SKU-1407",
+    "stock_qty": 199
+  },
+  {
+    "sku": "SKU-1408",
+    "stock_qty": 245
+  },
+  {
+    "sku": "SKU-1409",
+    "stock_qty": 134
+  },
+  {
+    "sku": "SKU-1410",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1411",
+    "stock_qty": 212
+  },
+  {
+    "sku": "SKU-1412",
+    "stock_qty": 240
+  },
+  {
+    "sku": "SKU-1413",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1414",
+    "stock_qty": 111
+  },
+  {
+    "sku": "SKU-1415",
+    "stock_qty": 42
+  },
+  {
+    "sku": "SKU-1416",
+    "stock_qty": 235
+  },
+  {
+    "sku": "SKU-1417",
+    "stock_qty": 31
+  },
+  {
+    "sku": "SKU-1418",
+    "stock_qty": 171
+  },
+  {
+    "sku": "SKU-1419",
+    "stock_qty": 101
+  },
+  {
+    "sku": "SKU-1420",
+    "stock_qty": 140
+  },
+  {
+    "sku": "SKU-1421",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1422",
+    "stock_qty": 180
+  },
+  {
+    "sku": "SKU-1423",
+    "stock_qty": 147
+  },
+  {
+    "sku": "SKU-1424",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1425",
+    "stock_qty": 172
+  },
+  {
+    "sku": "SKU-1426",
+    "stock_qty": 8
+  },
+  {
+    "sku": "SKU-1427",
+    "stock_qty": 102
+  },
+  {
+    "sku": "SKU-1428",
+    "stock_qty": 155
+  },
+  {
+    "sku": "SKU-1429",
+    "stock_qty": 33
+  },
+  {
+    "sku": "SKU-1430",
+    "stock_qty": 249
+  },
+  {
+    "sku": "SKU-1431",
+    "stock_qty": 213
+  },
+  {
+    "sku": "SKU-1432",
+    "stock_qty": 238
+  },
+  {
+    "sku": "SKU-1433",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1434",
+    "stock_qty": 81
+  },
+  {
+    "sku": "SKU-1435",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1436",
+    "stock_qty": 101
+  },
+  {
+    "sku": "SKU-1437",
+    "stock_qty": 154
+  },
+  {
+    "sku": "SKU-1438",
+    "stock_qty": 19
+  },
+  {
+    "sku": "SKU-1439",
+    "stock_qty": 42
+  },
+  {
+    "sku": "SKU-1440",
+    "stock_qty": 7
+  },
+  {
+    "sku": "SKU-1441",
+    "stock_qty": 28
+  },
+  {
+    "sku": "SKU-1442",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1443",
+    "stock_qty": 166
+  },
+  {
+    "sku": "SKU-1444",
+    "stock_qty": 48
+  },
+  {
+    "sku": "SKU-1445",
+    "stock_qty": 233
+  },
+  {
+    "sku": "SKU-1446",
+    "stock_qty": 109
+  },
+  {
+    "sku": "SKU-1447",
+    "stock_qty": 3
+  },
+  {
+    "sku": "SKU-1448",
+    "stock_qty": 175
+  },
+  {
+    "sku": "SKU-1449",
+    "stock_qty": 185
+  },
+  {
+    "sku": "SKU-1450",
+    "stock_qty": 165
+  },
+  {
+    "sku": "SKU-1451",
+    "stock_qty": 133
+  },
+  {
+    "sku": "SKU-1452",
+    "stock_qty": 81
+  },
+  {
+    "sku": "SKU-1453",
+    "stock_qty": 9
+  },
+  {
+    "sku": "SKU-1454",
+    "stock_qty": 237
+  },
+  {
+    "sku": "SKU-1455",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1456",
+    "stock_qty": 17
+  },
+  {
+    "sku": "SKU-1457",
+    "stock_qty": 230
+  },
+  {
+    "sku": "SKU-1458",
+    "stock_qty": 104
+  },
+  {
+    "sku": "SKU-1459",
+    "stock_qty": 222
+  },
+  {
+    "sku": "SKU-1460",
+    "stock_qty": 4
+  },
+  {
+    "sku": "SKU-1461",
+    "stock_qty": 17
+  },
+  {
+    "sku": "SKU-1462",
+    "stock_qty": 153
+  },
+  {
+    "sku": "SKU-1463",
+    "stock_qty": 69
+  },
+  {
+    "sku": "SKU-1464",
+    "stock_qty": 19
+  },
+  {
+    "sku": "SKU-1465",
+    "stock_qty": 88
+  },
+  {
+    "sku": "SKU-1466",
+    "stock_qty": 66
+  },
+  {
+    "sku": "SKU-1467",
+    "stock_qty": 133
+  },
+  {
+    "sku": "SKU-1468",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1469",
+    "stock_qty": 19
+  },
+  {
+    "sku": "SKU-1470",
+    "stock_qty": 189
+  },
+  {
+    "sku": "SKU-1471",
+    "stock_qty": 80
+  },
+  {
+    "sku": "SKU-1472",
+    "stock_qty": 33
+  },
+  {
+    "sku": "SKU-1473",
+    "stock_qty": 206
+  },
+  {
+    "sku": "SKU-1474",
+    "stock_qty": 203
+  },
+  {
+    "sku": "SKU-1475",
+    "stock_qty": 18
+  },
+  {
+    "sku": "SKU-1476",
+    "stock_qty": 193
+  },
+  {
+    "sku": "SKU-1477",
+    "stock_qty": 161
+  },
+  {
+    "sku": "SKU-1478",
+    "stock_qty": 185
+  },
+  {
+    "sku": "SKU-1479",
+    "stock_qty": 181
+  },
+  {
+    "sku": "SKU-1480",
+    "stock_qty": 200
+  },
+  {
+    "sku": "SKU-1481",
+    "stock_qty": 234
+  },
+  {
+    "sku": "SKU-1482",
+    "stock_qty": 57
+  },
+  {
+    "sku": "SKU-1483",
+    "stock_qty": 198
+  },
+  {
+    "sku": "SKU-1484",
+    "stock_qty": 196
+  },
+  {
+    "sku": "SKU-1485",
+    "stock_qty": 250
+  },
+  {
+    "sku": "SKU-1486",
+    "stock_qty": 228
+  },
+  {
+    "sku": "SKU-1487",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1488",
+    "stock_qty": 1
+  },
+  {
+    "sku": "SKU-1489",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1490",
+    "stock_qty": 221
+  },
+  {
+    "sku": "SKU-1491",
+    "stock_qty": 250
+  },
+  {
+    "sku": "SKU-1492",
+    "stock_qty": 2
+  },
+  {
+    "sku": "SKU-1493",
+    "stock_qty": 149
+  },
+  {
+    "sku": "SKU-1494",
+    "stock_qty": 68
+  },
+  {
+    "sku": "SKU-1495",
+    "stock_qty": 0
+  },
+  {
+    "sku": "SKU-1496",
+    "stock_qty": 5
+  },
+  {
+    "sku": "SKU-1497",
+    "stock_qty": 204
+  },
+  {
+    "sku": "SKU-1498",
+    "stock_qty": 117
+  },
+  {
+    "sku": "SKU-1499",
+    "stock_qty": 0
+  }
+]

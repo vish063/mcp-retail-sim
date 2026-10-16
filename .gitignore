@@ -1,0 +1,28 @@
+# Virtual envs (keep env in this project only if you create one here)
+.venv/
+venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Tools / IDE
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+
+# Local uv / lock noise (keep uv.lock if you want reproducible installs — optional)
+# uv.lock

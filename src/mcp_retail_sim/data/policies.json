@@ -1,0 +1,23 @@
+{
+  "returns": {
+    "id": "returns",
+    "title": "Returns & Refunds Policy",
+    "uri": "policy://returns",
+    "summary": "Most unused items can be returned within 30 days with proof of purchase.",
+    "body": "Returns & Refunds Policy (mcp-retail-sim)\n\n1. Window: You may return most unused items within 30 days of delivery.\n2. Condition: Items must be in original packaging with tags attached where applicable.\n3. Proof: Order ID or receipt is required.\n4. Refunds: Refunds are issued to the original payment method within 5–10 business days after inspection.\n5. Exclusions: Perishable grocery, opened personal-care/beauty sealed items, and final-sale clearance may be non-returnable.\n6. Damaged/defective: Contact support with photos; replacements or refunds are provided at no extra shipping cost.\n7. Process: Use the order confirmation to start a return; a prepaid label is provided for eligible items.\n\nThis text is synthetic fixture content for agent evaluation."
+  },
+  "shipping": {
+    "id": "shipping",
+    "title": "Shipping Policy",
+    "uri": "policy://shipping",
+    "summary": "Standard shipping 3–5 business days; express 1–2 business days in supported regions.",
+    "body": "Shipping Policy (mcp-retail-sim)\n\n1. Standard: 3–5 business days after order placement.\n2. Express: 1–2 business days where available.\n3. Free shipping: Orders over $50 (before tax) qualify for free standard shipping.\n4. International: Not supported in this simulator (domestic US addresses only).\n5. Delays: Weather and carrier issues can extend delivery estimates.\n6. Tracking: A tracking ID is returned when an order is placed in this sim.\n\nThis text is synthetic fixture content for agent evaluation."
+  },
+  "privacy": {
+    "id": "privacy",
+    "title": "Privacy Policy",
+    "uri": "policy://privacy",
+    "summary": "This simulator stores only synthetic cart/order data in memory; nothing is sent to real payment providers.",
+    "body": "Privacy Policy (mcp-retail-sim)\n\n1. Purpose: mcp-retail-sim is a synthetic retail MCP server for demos and agent evaluation.\n2. Data: Cart and order state live in process memory and are discarded when the server stops (unless you add persistence later).\n3. No real PII required: Do not put real customer secrets into fixtures.\n4. No third-party sale: Fixture data is not sold or shared.\n5. Contact: Treat this as sample policy text only.\n\nThis text is synthetic fixture content for agent evaluation."
+  }
+}
