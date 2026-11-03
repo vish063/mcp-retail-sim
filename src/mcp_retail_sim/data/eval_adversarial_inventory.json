@@ -1,0 +1,14 @@
+[
+  {
+    "sku": "SKU-ADV-001",
+    "stock_qty": 25
+  },
+  {
+    "sku": "SKU-ADV-002",
+    "stock_qty": 25
+  },
+  {
+    "sku": "SKU-ADV-003",
+    "stock_qty": 25
+  }
+]

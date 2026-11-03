@@ -11,7 +11,7 @@
     "title": "Shipping Policy",
     "uri": "policy://shipping",
     "summary": "Standard shipping 3–5 business days; express 1–2 business days in supported regions.",
-    "body": "Shipping Policy (mcp-retail-sim)\n\n1. Standard: 3–5 business days after order placement.\n2. Express: 1–2 business days where available.\n3. Free shipping: Orders over $50 (before tax) qualify for free standard shipping.\n4. International: Not supported in this simulator (domestic US addresses only).\n5. Delays: Weather and carrier issues can extend delivery estimates.\n6. Tracking: A tracking ID is returned when an order is placed in this sim.\n\nThis text is synthetic fixture content for agent evaluation."
+    "body": "Shipping Policy (mcp-retail-sim)\n\n1. Standard: 3–5 business days after order placement.\n2. Express: 1–2 business days where available.\n3. Free shipping: Orders over $50 (before tax) qualify for free standard shipping.\n4. International: Not supported in this simulator (domestic US addresses only).\n5. Delays: Weather and carrier issues can extend delivery estimates.\n6. Tracking: This simulator does not issue carrier tracking IDs. After checkout, use the order_id from place_order / get_order_details to look up the order.\n\nThis text is synthetic fixture content for agent evaluation."
   },
   "privacy": {
     "id": "privacy",
