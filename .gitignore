@@ -24,5 +24,6 @@ htmlcov/
 .vscode/
 .DS_Store
 
+AGENTS.md
 # Local uv / lock noise (keep uv.lock if you want reproducible installs — optional)
 # uv.lock

@@ -8,7 +8,8 @@ from mcp_retail_sim.server import mcp
 import mcp_retail_sim.tools  # noqa: F401 — register tools
 import mcp_retail_sim.resources  # noqa: F401 — register resources
 import mcp_retail_sim.prompts  # noqa: F401 — register prompts
-
+from mcp_retail_sim.eval_fixtures import configure_from_env as configure_eval_fixtures_from_env
+from mcp_retail_sim.faults import configure_from_env as configure_faults_from_env
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -37,6 +38,8 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 def main(argv: list[str] | None = None) -> None:
     args = parse_args(argv)
+    configure_faults_from_env()
+    configure_eval_fixtures_from_env()
     if args.transport == "stdio":
         mcp.run(transport="stdio")
     else:
