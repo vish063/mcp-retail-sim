@@ -1,6 +1,6 @@
 [project]
 name = "mcp-retail-sim"
-version = "0.1.1"
+version = "0.2.0"
 description = "Synthetic retail MCP server for shopping-agent demos and evaluation"
 readme = "README.md"
 license = "MIT"
